@@ -3,7 +3,7 @@
 * stringTableHolder.java .
 * Error reading Messages File.
 * Error reading Messages File.
-* niedziela, 26 sierpnia 2018 19:54:14 Czas środkowoeuropejski letni
+* niedziela, 26 sierpnia 2018 20:00:38 Czas środkowoeuropejski letni
 */
 
 public final class stringTableHolder implements org.omg.CORBA.portable.Streamable
